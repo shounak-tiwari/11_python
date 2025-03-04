@@ -1,0 +1,46 @@
+# source code 
+# .py 
+# .pyc 
+# .java 
+# .class
+# .c 
+# .exe / .out
+
+Feactures of python:
+a. cross platform (platform independent)=> executable file (.pyc)
+b. easy to read & write as well as easy to understand 
+c. Dynamic Type language
+d. oops and pop 
+e. programming & scripting 
+f. Top down approach 
+g. Library like numpy pandas 
+h. GUI 
+i. Case senstive 
+
+
+interpreter - platform based 
+	interpreter (windows) then this interpreter is different from your linux 	
+system where user execute thier code 
+	 - pc 
+	 - mobile 
+source-code 
+
+		add.py 
+	
+			|
+	JUST IN TIME COMPILER 
+		
+			|
+		Byte code 
+	
+			|
+	Python Vitrual Machine 
+		
+			|
+.pyc(cross platform)  -> no need to any specific platform for execution 
+		 
+
+
+Add.py -----> Byte code ---------> X-64 (.exe)
+
+Add.py -----> Byte code ---------> linux ubantu 22.04 .out

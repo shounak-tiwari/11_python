@@ -1,0 +1,13 @@
+Python : is high-level , object oriented programming , procedure , functional , programming as well as scripting  it is genrally use in development of application  and it is interpreted scripting and programming language 
+
+Developed By : Guido Van Rossum
+Where : Centrum wiskunde and informatica neetharland  
+First Version : feb 20,1991
+create :  1985-90
+
+setup of python in windows : 
+step 1: https://www.python.org
+step 2:  click on downloads 
+step 3:  install downloaded file 
+		select add python.exe to PATH
+		
