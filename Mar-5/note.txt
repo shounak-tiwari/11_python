@@ -1,0 +1,53 @@
+variables : Variable is reserved memory block, Which is also known as Name of container which is reponsible for storing data inside in it..
+But we also know that python is object oritend programming so it has reference object or references.
+
+source code :
+x = 10
+print(x)
+print(type(x))
+x = 10.5
+print(x)
+print(type(x))
+------------------------------------------------------------------------
+output :
+10
+<class 'int'>
+10.5
+<class 'float'>
+
+
+
+Data types : Data types is a type of data  store in memory block 
+	1. mutable : 
+		a.dict 
+		b.set 
+		c.list
+		
+		source code : 
+		student =["Vedant","Mansh"]
+		print(student)
+		student.remove("Mansh")
+		print(student)
+		
+		output :
+		['Vedant', 'Mansh']
+		['Vedant']
+
+	2. immutable : 
+		a. numeric
+				i. int 
+				ii.float
+				iii. complex 
+				iv. boolean
+				v. none
+		b. string 
+		c. tuple
+		source code:		
+		student =("Vedant","Mansh")
+		print(student)
+		student[1] = "Akash"
+		print(student)
+
+		output:
+		tuple object assignment not allowed 
+
