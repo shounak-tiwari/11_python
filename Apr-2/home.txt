@@ -1,0 +1,68 @@
+Here is a **complete list of all built-in string methods** in Python (`str` class) as of **Python 3.11+**:
+
+---
+
+### **📜 All Python String Methods (Names Only)**
+#### **1. Case Conversion**
+1. `capitalize()`  
+2. `casefold()`  
+3. `lower()`  
+4. `upper()`  
+5. `swapcase()`  
+6. `title()`  
+
+#### **2. Formatting & Alignment**
+7. `center(width[, fillchar])`  
+8. `ljust(width[, fillchar])`  
+9. `rjust(width[, fillchar])`  
+10. `zfill(width)`  
+11. `expandtabs(tabsize=8)`  
+
+#### **3. Stripping Whitespace**
+12. `strip([chars])`  
+13. `lstrip([chars])`  
+14. `rstrip([chars])`  
+
+#### **4. Searching & Substrings**
+15. `count(sub[, start[, end]])`  
+16. `find(sub[, start[, end]])`  
+17. `rfind(sub[, start[, end]])`  
+18. `index(sub[, start[, end]])`  
+19. `rindex(sub[, start[, end]])`  
+20. `startswith(prefix[, start[, end]])`  
+21. `endswith(suffix[, start[, end]])`  
+
+#### **5. Splitting & Joining**
+22. `split(sep=None, maxsplit=-1)`  
+23. `rsplit(sep=None, maxsplit=-1)`  
+24. `splitlines([keepends])`  
+25. `join(iterable)`  
+
+#### **6. Boolean Checks**
+26. `isalnum()`  
+27. `isalpha()`  
+28. `isdigit()`  
+29. `isnumeric()`  
+30. `isdecimal()`  
+31. `islower()`  
+32. `isupper()`  
+33. `isspace()`  
+34. `istitle()`  
+35. `isascii()`  
+
+#### **7. Replace & Translation**
+36. `replace(old, new[, count])`  
+37. `translate(table)`  
+38. `maketrans(x[, y[, z]])`  
+
+#### **8. Encoding & Bytes**
+39. `encode(encoding='utf-8', errors='strict')`  
+
+#### **9. Special Methods (Dunder Methods)**
+40. `__contains__(sub)` → Used by `in` operator.  
+41. `__len__()` → Used by `len(str)`.  
+42. `__getitem__(i)` → Used by `str[i]`.  
+
+---
+
+

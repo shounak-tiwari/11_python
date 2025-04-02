@@ -1,0 +1,15 @@
+Relational operators (>,<,>=,<=,==,!=)
+
+> : x > y
+< : x < y
+>= : x >= y
+<= : x <= y
+== : x == y 
+!= : x != y
+
+
+Logical operators (AND OR NOT)
+
+membership (in , not in)  
+
+identity (is , is not)
